@@ -1,19 +1,34 @@
-Created a fully functional Food delivery website using MERN stack and Material UI, ensuring a responsive and user-friendly design.
+This is a full-stack Food Delivery Application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Material-UI for a responsive and intuitive design. The application provides a seamless experience for users to browse, search, and order food online with secure payment options.
 
-Implemented secure user authentication using JWT and bcrypt for data encryption.
+Features:-
 
-Developed dynamic food search functionality with filters and sorting for an enhanced user experience.
+->User Authentication:
+Secure login and registration system using JWT for authentication.
 
-Built an intuitive cart system that supports adding, removing, and updating items with real-time price calculation.
+->Food Search and Filtering:
+Advanced search functionality with filtering and sorting options for ease of navigation.
 
-Integrated a payment gateway like Stripe/Razorpay for seamless and secure transactions.
+->Cart Management:
+Add, update, and remove items from the cart with real-time price calculations.
 
-Designed RESTful APIs for managing users, orders, and menu items, ensuring scalable and modular architecture.
+->Order Placement:
+A streamlined ordering process with live order tracking capabilities.
 
-Deployed the application on cloud platforms (AWS/Heroku) for accessibility and scalability.
+->Payment Gateway Integration:
+Secure payment system integrated with [Stripe/Razorpay] for processing online payments.
 
-Implemented role-based access control to differentiate between user and admin functionalities.
+->Admin Dashboard:
+Role-based access for administrators to manage menu items, orders, and user details.
 
-Enhanced website performance with lazy loading and optimized database queries.
+->Responsive Design:
+Optimized for desktop, tablet, and mobile devices using Material-UI.
 
-Ensured code maintainability by following best practices and leveraging version control tools like Git and GitHub.
+->Real-Time Notifications:
+Live updates for order status and notifications using WebSocket.
+
+Tech Stack:-
+Frontend: React.js, Material-UI
+,Backend: Node.js, Express.js
+,Database: MongoDB
+,Authentication: JSON Web Token (JWT)
+,Payment Integration: [Stripe/Razorpay]
