@@ -1,33 +1,19 @@
-This is a full-stack Food Delivery Application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Material-UI for a responsive and intuitive design. The application provides a seamless experience for users to browse, search, and order food online with secure payment options.
+Created a fully functional Food delivery website using MERN stack and Material UI, ensuring a responsive and user-friendly design.
 
-Features:-
-->User Authentication:
-Secure login and registration system using JWT for authentication.
+Implemented secure user authentication using JWT and bcrypt for data encryption.
 
-->Food Search and Filtering:
-Advanced search functionality with filtering and sorting options for ease of navigation.
+Developed dynamic food search functionality with filters and sorting for an enhanced user experience.
 
-->Cart Management:
-Add, update, and remove items from the cart with real-time price calculations.
+Built an intuitive cart system that supports adding, removing, and updating items with real-time price calculation.
 
-->Order Placement:
-A streamlined ordering process with live order tracking capabilities.
+Integrated a payment gateway like Stripe/Razorpay for seamless and secure transactions.
 
-->Payment Gateway Integration:
-Secure payment system integrated with [Stripe/Razorpay] for processing online payments.
+Designed RESTful APIs for managing users, orders, and menu items, ensuring scalable and modular architecture.
 
-->Admin Dashboard:
-Role-based access for administrators to manage menu items, orders, and user details.
+Deployed the application on cloud platforms (AWS/Heroku) for accessibility and scalability.
 
-->Responsive Design:
-Optimized for desktop, tablet, and mobile devices using Material-UI.
+Implemented role-based access control to differentiate between user and admin functionalities.
 
-->Real-Time Notifications:
-Live updates for order status and notifications using WebSocket.
+Enhanced website performance with lazy loading and optimized database queries.
 
-Tech Stack:-
-Frontend: React.js, Material-UI
-,Backend: Node.js, Express.js
-,Database: MongoDB
-,Authentication: JSON Web Token (JWT)
-,Payment Integration: [Stripe/Razorpay]
+Ensured code maintainability by following best practices and leveraging version control tools like Git and GitHub.
