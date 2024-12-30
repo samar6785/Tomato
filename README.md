@@ -1,4 +1,4 @@
-This is a full-stack Food Delivery Application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Material-UI for a responsive and intuitive design. The application provides a seamless experience for users to browse, search, and order food online with secure payment options.
+This is a full-stack Food Delivery Website built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Material-UI for a responsive and intuitive design. The application provides a seamless experience for users to browse, search, and order food online with secure payment options.
 
 Features:-
 
