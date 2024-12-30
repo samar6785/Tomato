@@ -27,7 +27,7 @@ Live updates for order status and notifications using WebSocket.
 
 Tech Stack:-
 Frontend: React.js, Material-UI
-Backend: Node.js, Express.js
-Database: MongoDB
-Authentication: JSON Web Token (JWT)
-Payment Integration: [Stripe/Razorpay]
+,Backend: Node.js, Express.js
+,Database: MongoDB
+,Authentication: JSON Web Token (JWT)
+,Payment Integration: [Stripe/Razorpay]
