@@ -38,6 +38,3 @@ Authentication: JSON Web Token (JWT)
 
 Payment Integration: [Stripe/Razorpay]
 
-Installation
-1. Clone this repository to your local machine:
-git clone https://github.com/samar6785/Food-delivery-mern 
